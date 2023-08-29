@@ -3,5 +3,6 @@
 <a href="mailto:lisadafny.tech@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  I'm a Fullstack Developer at <a href="https://www.7comm.com.br/">7comm</a>. 
 Student of System Analysis and Development at <a href="https://portal.anhembi.br/">Anhembi</a>. And Accounting Science at <a href="https://www.ufba.br/">UFBA</a>.
-[![trophy](https://github-profile-trophy.vercel.app/?username=lisadafny)](https://github.com/lisadany)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisadafny&layout=compact&theme=radical)](https://github.com/lisadafny)
